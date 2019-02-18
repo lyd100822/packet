@@ -16,22 +16,28 @@
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
 					<key>url</key>
 					<string>http://download.qixigame.com/ios/jd57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
 					<key>url</key>
 					<string>http://download.qixigame.com/ios/jd57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
+				<key>update-url</key>
+				<string>https://raw.githubusercontent.com/lyd100822/packet/master/manifest.plist</string>
 				<key>bundle-identifier</key>
 				<string>com.qixi.jiangdumj</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>2.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
