@@ -23,7 +23,7 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://download.qixigame.com/ios/jd512.png</string>
+					<string>http://download.qixigame.com/ios/jd57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.qixi.jiangdumj</string>
 				<key>bundle-version</key>
-				<string>1.4</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
