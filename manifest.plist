@@ -13,7 +13,7 @@
 					<key>url</key>
 					<string>http://download.qixigame.com/ios/jd.ipa</string>
 				</dict>
-				<dict>
+				<!-- <dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>needs-shine</key>
@@ -28,7 +28,7 @@
 					<true/>
 					<key>url</key>
 					<string>jd512.png</string>
-				</dict>
+				</dict> -->
 			</array>
 			<key>metadata</key>
 			<dict>
