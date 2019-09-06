@@ -11,31 +11,15 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://download.qixigame.com/nanjing/nj.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://download.qixigame.com/nanjing/jd57.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://download.qixigame.com/nanjing/jd512.png</string>
+					<string>http://gameres.qixiyx.cn/MaJiong-mobile-情怀广德麻将-1.0_resigned.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tljm110.majiang</string>
+				<string>com.qixi.guangdemj</string>
 				<key>bundle-version</key>
-				<string>4.6</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
@@ -44,8 +28,4 @@
 		</dict>
 	</array>
 </dict>
-</plist>
-
-
-
-
+</plist>            
