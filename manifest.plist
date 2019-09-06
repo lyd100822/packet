@@ -11,15 +11,15 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://gameres.qixiyx.cn/MaJiong-mobile-情怀广德麻将-1.0_resigned.ipa</string>
+					<string>https://udid/qd.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.qixi.guangdemj</string>
+				<string>com.qixi.qingdaomj</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
