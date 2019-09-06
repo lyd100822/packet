@@ -14,18 +14,18 @@
 					<string>https://play.qixigame/udid/fz.ipa</string>
 					<!-- <string>http://gameres.qixiyx.cn/MaJiong-mobile-情怀广德麻将-1.0_resigned.ipa</string> -->
 				</dict>
-				<!-- <dict>
+				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://132.232.157.23:8086/img/download/ios/ticket57.png</string>
+					<string>https://play.qixigame/udid/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://132.232.157.23:8086/img/download/ios/ticket512.png</string>
-				</dict> -->
+					<string>https://play.qixigame/udid/512.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
